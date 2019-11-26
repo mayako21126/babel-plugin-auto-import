@@ -1,6 +1,6 @@
 {
   "name": "babel-plugin-auto-import-externals",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "author": "mayako <freedom21126@gmail.com>",
   "repository": {
     "type": "git",
